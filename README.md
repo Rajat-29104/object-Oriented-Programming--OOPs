@@ -6,7 +6,6 @@ This repository contains Day 4 OOP assignments based on fundamental Object Orien
 
 The objective of this assignment is to understand how classes and objects help us build reusable, organized and scalable programs.
 
-All programs are implemented using beginner-friendly Python code suitable for a 2nd year B.Tech Computer Science Engineering student.
 
 ---
 
